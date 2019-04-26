@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "myApp", "myApp\myApp.sfproj", "{0C364C04-05F8-44B9-A2A7-D70D4163F85A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C364C04-05F8-44B9-A2A7-D70D4163F85A}.Debug|x64.ActiveCfg = Debug|x64
+		{0C364C04-05F8-44B9-A2A7-D70D4163F85A}.Debug|x64.Build.0 = Debug|x64
+		{0C364C04-05F8-44B9-A2A7-D70D4163F85A}.Debug|x64.Deploy.0 = Debug|x64
+		{0C364C04-05F8-44B9-A2A7-D70D4163F85A}.Release|x64.ActiveCfg = Release|x64
+		{0C364C04-05F8-44B9-A2A7-D70D4163F85A}.Release|x64.Build.0 = Release|x64
+		{0C364C04-05F8-44B9-A2A7-D70D4163F85A}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59D5C4A0-0816-4D9E-BAC9-88A5DCCAB089}
+	EndGlobalSection
+EndGlobal
